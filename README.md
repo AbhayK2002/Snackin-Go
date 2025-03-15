@@ -1,2 +1,1 @@
-# Snackin-Go
-Python program for snake game
+SNAKE game using pygame if you want to run this code then, you have to download all the contents that are present in files without changing their respected names and also the file's name.You have to create the files as mentioned over here with their respective contents.After that you have to create folder in your respected device.Within the folder you have to keep all the files in that,in which you have kept the code "snake.py"
